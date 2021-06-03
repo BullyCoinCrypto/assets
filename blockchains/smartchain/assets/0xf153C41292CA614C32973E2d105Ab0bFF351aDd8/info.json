@@ -1,0 +1,11 @@
+{
+	"name": "BullyCoin",
+    "website": "https://bullycoincrypto.com/",
+    "description": "BullyCoin is a deflationary cryptoasset on the Binance Smart Chain network looking to expand the scope of 'memecoins' and actually have a usecase. We are expanding to creating a wallet, an exchange and eventually be one of the larger decentralised exchanges in the crypto space.",
+    "explorer": "https://bscscan.com/token/0xf153C41292CA614C32973E2d105Ab0bFF351aDd8",
+    "type": "BEP20",
+    "symbol": "Bully",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xf153C41292CA614C32973E2d105Ab0bFF351aDd8"
+}
